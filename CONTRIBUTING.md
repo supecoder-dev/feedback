@@ -1,6 +1,6 @@
-# Contributing to SuperCoder
+# Contributing to SupeCoder
 
-Thank you for considering contributing to SuperCoder! Follow the guidelines below to make your contributions.
+Thank you for considering contributing to SupeCoder! Follow the guidelines below to make your contributions.
 
 ## How to Contribute
 
