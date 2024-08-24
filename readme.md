@@ -1,6 +1,6 @@
-# SuperCoder Feedback and Algorithms
+# SupeCoder Feedback and Algorithms
 
-Welcome to the official feedback and algorithms repository for [SuperCoder](https://supecoder.dev), the online judge platform. Here you can submit feedback, report bugs, and contribute open-source algorithms.
+Welcome to the official feedback and algorithms repository for [SupeCoder](https://supecoder.dev), the online judge platform. Here you can submit feedback, report bugs, and contribute open-source algorithms.
 
 
 ## How to Contribute
