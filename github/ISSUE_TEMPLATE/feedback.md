@@ -1,6 +1,6 @@
 ---
 name: Feedback
-about: Provide feedback or feature request for SuperCoder
+about: Provide feedback or feature request for SupeCoder
 title: "[Feedback] - "
 labels: feedback
 assignees: ''
